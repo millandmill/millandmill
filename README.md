@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🎓 Education:
-        -- King Mongkut's University of Technology North Bangkok
-           -- Bachelor Degree
-              - Bachelor of Science in Technical Education (B.S.Tech.Ed.)
-        -- Chetupon Commercial College
-           -- Vocational Degree
-              - Certificate of Vocational Education in Commerce (Business Computer)
+###- 🎓 Education:
+###        -- King Mongkut's University of Technology North Bangkok
+###           -- Bachelor Degree
+###              - Bachelor of Science in Technical Education (B.S.Tech.Ed.)
+###        -- Chetupon Commercial College
+###           -- Vocational Degree
+###              - Certificate of Vocational Education in Commerce (Business Computer)
 
 
 
