@@ -8,7 +8,7 @@
 Bachelor of Science in Technical Education Program in Computer Technology 
 - [B.S.Tech.Ed. (Computer Technology)](http://www.alumnicenter.kmutnb.ac.th/alumni?sub_department=&department=&degree=&year_start=&year_end=&keyword=%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%81%E0%B8%B8%E0%B8%A5+%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%82%E0%B8%A0%E0%B8%84%E0%B8%B4%E0%B8%99)
 
-
+<br/>
 
 ##### **Chetupon Commercial College**
 
@@ -19,7 +19,7 @@ Vocational Degree
 Certificate of Vocational Education in Commerce  
 - Business Computer
 
-
+<br/>
 
 ##### **Sarasas Samuthsarn School**
 
@@ -29,7 +29,7 @@ Kindergarten Year 3 to Junior High School
 
 - Intensive Programme
 
-
+<br/>
 
 **Thonburi Suksa School**
 
@@ -46,11 +46,10 @@ Kindergarten Year 2
 [not a certification exams / just a certificate of course](https://drive.google.com/file/d/0BxIrxHorHE_raW9YQVVvNGxjc0k/view)
 
 
-
 **Professional Qualification Level 3**
-**Sector :** Information and Communications Technology and Digital Content
-**Sub-Sector :** Software and Applications
-**Occupation** : Systems Design Analyst
+<br/> **Sector :** Information and Communications Technology and Digital Content
+<br/> **Sub-Sector :** Software and Applications
+<br/> **Occupation** : Systems Design Analyst
 
 ###### October 2015
  
