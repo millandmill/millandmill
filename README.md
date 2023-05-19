@@ -21,7 +21,7 @@
 # Education
 
 
-| Year| ระดับ | สถานศึกษา | วุฒิ |
+| Year| Degree| Institution | Qualification |
 | --- | --- |---| --- |
 | 2012 - 2017 | Bachelor Degree | King Mongkut's University of Technology North Bangkok | Bachelor of Science in Technical Education Program in Computer Technology |
 | 2009 - 2012 |  Vocational Degree |  Chetupon Commercial College | Certificate of Vocational Education in Commerce  [Business Computer]
