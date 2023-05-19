@@ -1,3 +1,21 @@
+# Certificate
+ **CCNA Routing and Switching: Routing and Switching Essentials - Certificate of Course Completion**
+###### May 2016
+[not a certification exams / just a certificate of course](https://drive.google.com/file/d/0BxIrxHorHE_raW9YQVVvNGxjc0k/view)
+
+
+**Professional Qualification Level 3**
+<br/> **Sector :** Information and Communications Technology and Digital Content
+<br/> **Sub-Sector :** Software and Applications
+<br/> **Occupation** : Systems Design Analyst
+
+###### October 2015
+ 
+**Statement Number :** [OSCN-0002A/ICT-SWA-3-251101-A-58/000014](https://drive.google.com/file/d/0B4zopZMyTzWsQklvdnJtWWpUODA/view)  
+
+
+----------
+
 
 # Education
 ##### **King Mongkut's University of Technology North Bangkok**
@@ -38,19 +56,5 @@ Kindergarten Year 3 to Junior High School
 Kindergarten Year 2
 
 - Intensive Programme
-----------
-
-# Certificate
- **CCNA Routing and Switching: Routing and Switching Essentials - Certificate of Course Completion**
-###### May 2016
-[not a certification exams / just a certificate of course](https://drive.google.com/file/d/0BxIrxHorHE_raW9YQVVvNGxjc0k/view)
 
 
-**Professional Qualification Level 3**
-<br/> **Sector :** Information and Communications Technology and Digital Content
-<br/> **Sub-Sector :** Software and Applications
-<br/> **Occupation** : Systems Design Analyst
-
-###### October 2015
- 
-**Statement Number :** [OSCN-0002A/ICT-SWA-3-251101-A-58/000014](https://drive.google.com/file/d/0B4zopZMyTzWsQklvdnJtWWpUODA/view)  
