@@ -12,7 +12,7 @@
 
 ###### October 2015
  
-**Statement Number :** [OSCN-0002A/ICT-SWA-3-251101-A-58/000014](https://drive.google.com/file/d/0B4zopZMyTzWsQklvdnJtWWpUODA/view)  
+**Statement Number :** [OSCN-0002A/ICT-SWA-3-251101-A-58/000014](https://drive.google.com/file/d/1vwBrbxMPHhW0CrxGsvDI6kca6v_ha5Mw/view?usp=sharing)  
 
 
 ----------
